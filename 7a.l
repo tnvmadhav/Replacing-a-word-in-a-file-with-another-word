@@ -43,5 +43,9 @@ int main()
 	{
 		printf("\nERROR : %s doesn't exist in the file\n",findword);
 	}
+	if(flag == 1)
+	{
+		printf("\nSUCCESS!");
+	}
 }
 	
